@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4656c0b.chunk.css",
-    "main.js": "/static/js/main.08cf8291.chunk.js",
-    "main.js.map": "/static/js/main.08cf8291.chunk.js.map",
+    "main.css": "/static/css/main.eb6ad619.chunk.css",
+    "main.js": "/static/js/main.d658e758.chunk.js",
+    "main.js.map": "/static/js/main.d658e758.chunk.js.map",
     "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.65419069.chunk.js",
     "reactPlayerDailyMotion.js.map": "/static/js/reactPlayerDailyMotion.65419069.chunk.js.map",
     "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.0f659af2.chunk.js",
@@ -29,15 +29,15 @@
     "reactPlayerWistia.js.map": "/static/js/reactPlayerWistia.91ffd644.chunk.js.map",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.3fc06284.chunk.js",
     "reactPlayerYouTube.js.map": "/static/js/reactPlayerYouTube.3fc06284.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.534ccbfe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.534ccbfe.js.map",
-    "static/js/15.b6b6ebe9.chunk.js": "/static/js/15.b6b6ebe9.chunk.js",
-    "static/js/15.b6b6ebe9.chunk.js.map": "/static/js/15.b6b6ebe9.chunk.js.map",
-    "static/js/16.ff05485d.chunk.js": "/static/js/16.ff05485d.chunk.js",
-    "static/js/16.ff05485d.chunk.js.map": "/static/js/16.ff05485d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d3c7fa33.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d3c7fa33.js.map",
+    "static/js/15.ce60a90a.chunk.js": "/static/js/15.ce60a90a.chunk.js",
+    "static/js/15.ce60a90a.chunk.js.map": "/static/js/15.ce60a90a.chunk.js.map",
+    "static/js/16.5d50c7c0.chunk.js": "/static/js/16.5d50c7c0.chunk.js",
+    "static/js/16.5d50c7c0.chunk.js.map": "/static/js/16.5d50c7c0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a4656c0b.chunk.css.map": "/static/css/main.a4656c0b.chunk.css.map",
-    "static/js/15.b6b6ebe9.chunk.js.LICENSE.txt": "/static/js/15.b6b6ebe9.chunk.js.LICENSE.txt",
+    "static/css/main.eb6ad619.chunk.css.map": "/static/css/main.eb6ad619.chunk.css.map",
+    "static/js/15.ce60a90a.chunk.js.LICENSE.txt": "/static/js/15.ce60a90a.chunk.js.LICENSE.txt",
     "static/media/about.a69798a5.jpg": "/static/media/about.a69798a5.jpg",
     "static/media/apple.04e421b5.jpg": "/static/media/apple.04e421b5.jpg",
     "static/media/avatar.2cdac7bd.png": "/static/media/avatar.2cdac7bd.png",
@@ -57,9 +57,9 @@
     "static/media/wealth-color-earli.5aa98a67.mp4": "/static/media/wealth-color-earli.5aa98a67.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.534ccbfe.js",
-    "static/js/15.b6b6ebe9.chunk.js",
-    "static/css/main.a4656c0b.chunk.css",
-    "static/js/main.08cf8291.chunk.js"
+    "static/js/runtime-main.d3c7fa33.js",
+    "static/js/15.ce60a90a.chunk.js",
+    "static/css/main.eb6ad619.chunk.css",
+    "static/js/main.d658e758.chunk.js"
   ]
 }
